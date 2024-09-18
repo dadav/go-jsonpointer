@@ -1,3 +1,3 @@
-module github.com/mattn/go-jsonpointer
+module github.com/dadav/go-jsonpointer
 
 go 1.13
