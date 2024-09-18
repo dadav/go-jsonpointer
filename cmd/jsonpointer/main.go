@@ -3,8 +3,9 @@ package main
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/mattn/go-jsonpointer"
 	"os"
+
+	"github.com/dadav/go-jsonpointer"
 )
 
 func fatalIf(err error) {
